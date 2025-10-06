@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramon Ochoa
 
-💻 **Platform Engineer / Network Security Intern**  
+💻 **Platform Engineer / Network Security Intern / DevSecOps Analyst**  
 🎓 B.S. Computer Science — Arizona State University  
 🏦 Currently interning at a regional bank expanding to “Large Bank” compliance status.
 
