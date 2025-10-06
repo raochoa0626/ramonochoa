@@ -2,7 +2,7 @@
 
 💻 **Platform Engineer / Network Security Intern / DevSecOps Analyst**  
 🎓 B.S. Computer Science — Arizona State University  
-🏦 Currently interning at a regional bank expanding to “Large Bank” compliance status.
+🏦 Currently interning at a regional bank expanding to “LFI” compliance status.
 
 ---
 
