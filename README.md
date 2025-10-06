@@ -30,5 +30,5 @@ Python • Linux • Cisco Packet Tracer • Palo Alto • Azure • Git • Spl
 ---
 
 ### 📫 Contact
-**LinkedIn:** [linkedin.com/in/ramonochoa](#)  
-**Email:** youremail@example.com
+**LinkedIn:** linkedin.com/in/rochoa2019
+**Email:** raochoa3@asu.edu
